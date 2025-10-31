@@ -9,6 +9,27 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.0.5"
-  }
+    "vite": "^6.4.1"
+  },
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.24.2",
+    "nanoid": "^3.3.8",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.5.1",
+    "rollup": "^4.32.0",
+    "source-map-js": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vika-sky10/smart-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vika-sky10/smart-table/issues"
+  },
+  "homepage": "https://github.com/Vika-sky10/smart-table#readme"
 }
